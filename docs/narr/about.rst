@@ -76,7 +76,7 @@ The core organization from the top-most down:
   	separate service to test should have a project. Projects may have multiple
   	strategies associated with them.
   Plan
-    A load-test plan defines one or more Step's to run, along with when the
+    A load-test plan defines one or more Steps to run, along with when the
     Step should start/stop.
   Step
     A Step contains all the information needed to allocate AWS
